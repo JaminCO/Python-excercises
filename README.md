@@ -1,3 +1,3 @@
-# variable-project
+# python excercis
 
-an excercise for my lesson on variable
+an excercise for my lessons
