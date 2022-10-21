@@ -1,3 +1,3 @@
-# python excercis
+# python excercise
 
 an excercise for my lessons
